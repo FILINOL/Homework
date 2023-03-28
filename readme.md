@@ -9,3 +9,5 @@
 **git merge** - слияние 2 веток 
 
 **git checkout branch** - переход на ветку
+
+**git branch -d branch_name** - удаление ветки
