@@ -13,3 +13,5 @@
 **git branch -d branch_name** - удаление ветки
 
 **git checkout -b branch_name** - создать ветку и сразу перейти в нее
+
+ыаыа
